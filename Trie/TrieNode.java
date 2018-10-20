@@ -1,5 +1,3 @@
-package com.company.Tree.Trie;
-
 import java.util.Comparator;
 import java.util.TreeMap;
 

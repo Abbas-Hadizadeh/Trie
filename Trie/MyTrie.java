@@ -1,5 +1,3 @@
-package com.company.Tree.Trie;
-
 import java.util.Arrays;
 import java.util.Stack;
 
